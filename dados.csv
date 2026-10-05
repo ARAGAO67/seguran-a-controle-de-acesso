@@ -1,0 +1,13 @@
+id,empresa,matriz,categoria,descricao,custo
+1,CyberPulse Tech,São Paulo,Infraestrutura,Servidores e equipamentos,1500.50
+2,CyberPulse Tech,Rio de Janeiro,Infraestrutura,Armazenamento em nuvem,2300.75
+3,CyberPulse Tech,Belo Horizonte,Segurança,Licenças de software de segurança,1800.00
+4,CyberPulse Tech,São Paulo,Operações,Monitoramento de rede,975.25
+5,CyberPulse Tech,Rio de Janeiro,Manutenção,Manutenção de equipamentos,640.00
+6,CyberPulse Tech,Belo Horizonte,Infraestrutura,Atualização de estações de trabalho,1250.90
+7,CyberPulse Tech,São Paulo,Segurança,Auditoria de segurança da informação,2100.00
+8,CyberPulse Tech,Rio de Janeiro,Operações,Serviço de backup e recuperação,890.50
+9,CyberPulse Tech,Belo Horizonte,Manutenção,Suporte técnico especializado,725.35
+10,CyberPulse Tech,São Paulo,Infraestrutura,Expansão da capacidade de servidores,3200.00
+11,CyberPulse Tech,Rio de Janeiro,Segurança,Renovação de certificados digitais,415.80
+12,CyberPulse Tech,Belo Horizonte,Operações,Monitoramento de acessos,1100.25
